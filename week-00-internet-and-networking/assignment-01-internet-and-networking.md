@@ -63,7 +63,17 @@ Write a short explanation (**100–150 words**) that includes:
 
 Add your answer here...
 
----
+--EpicReads is an online bookstore hosted on a server in Finland. Users worldwide can access the website through the internet using various networking technologies.
+
+When a user types **www.epicreads.com** into a web browser, the Domain Name System (DNS) translates the domain name into the server's **IP Address**, which identifies the server's location on the network.
+
+The **TCP/IP** protocol suite enables communication between the user's device and the server, ensuring that data is correctly addressed, transmitted, and reliably delivered.
+
+Through **Packet Switching**, information is divided into smaller packets that travel across different networks before being reassembled at their destination.
+
+Finally, **HTTP/HTTPS** enables communication between the browser and the website. HTTPS encrypts the connection, protecting sensitive information such as login credentials and payment details.
+
+Together, these technologies allow customers worldwide to browse and purchase books securely from EpicReads.-
 
 # 🏗️ Task 3: Application Architecture & Stack
 
