@@ -155,8 +155,9 @@ In **50–100 words**, explain in your own words:
 ## Answer
 
 Add your answer here...
-
----
+1.DNS (Domain Name System) is like the internet's phonebook. It translates a human-friendly domain name, such as epicreads.com, into an IP address that computers use to find a server. 
+2.To connect epicreads.com to 52.172.142.222, you should use an A record because it maps a domain name directly to an IPv4 address. This allows users to enter the domain name instead of the numerical IP address.
+ Since EpicReads runs on port 3000, users must enter epicreads.com:3000
 
 # 💻 Task 5: Visual Studio Code Setup (Hands-on)
 
