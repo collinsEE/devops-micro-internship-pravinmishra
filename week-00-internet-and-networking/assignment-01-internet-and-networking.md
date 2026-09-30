@@ -61,9 +61,9 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
 
---EpicReads is an online bookstore hosted on a server in Finland. Users worldwide can access the website through the internet using various networking technologies.
+
+EpicReads is an online bookstore hosted on a server in Finland. Users worldwide can access the website through the internet using various networking technologies.
 
 When a user types **www.epicreads.com** into a web browser, the Domain Name System (DNS) translates the domain name into the server's **IP Address**, which identifies the server's location on the network.
 
