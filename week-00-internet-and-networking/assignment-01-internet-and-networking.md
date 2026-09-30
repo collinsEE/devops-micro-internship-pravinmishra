@@ -35,7 +35,9 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 ## What I Learned (2–3 lines)
 
 Add your answer here...
-
+A network protocol is a standardized set of rules that allows devices to communicate and exchange data.
+For example, when I open a website, DNS resolves the domain name to an IP address,
+TCP establishes a reliable connection, and HTTPS enables secure communication between my browser and the web server.
 ---
 
 # 🌐 Task 2: Internet and Networking
