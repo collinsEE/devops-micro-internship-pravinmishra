@@ -29,7 +29,7 @@ Save your screenshot in the `screenshots` folder and update the file name below.
 
 
 Replace `task-1-chatgpt.png` with your actual screenshot file name.
-
+nw-protocol.png
 ---
 
 ## What I Learned (2–3 lines)
