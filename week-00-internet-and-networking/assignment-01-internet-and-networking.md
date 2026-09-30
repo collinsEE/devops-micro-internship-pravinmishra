@@ -189,12 +189,12 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![VS Code Setup Screenshot](screenshots/task-5-vscode.png)
+![VS Code Setup Screenshot](screenshots/vscode-pic.png)
 
 
 Replace `task-5-vscode.png` with your actual screenshot file name.
 
----
+vscode-pic.png
 
 # 🔗 Task 6: Publish Your Assignment as a LinkedIn Post
 
