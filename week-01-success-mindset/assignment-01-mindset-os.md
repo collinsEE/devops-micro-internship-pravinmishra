@@ -16,7 +16,8 @@ Write at least **50 words**. Be honest, specific, and use clear professional sen
 
 Add your answer here...
 
----
+I believe not every DevOps process should be automated. Automation is valuable for repetitive and predictable tasks, but high-risk production changes sometimes require human judgment and approval. 
+The goal should not be automation at all costs, but safe automation with proper validation, observability, rollback mechanisms, and clearly defined guardrails.
 
 ## Task 2 — Three Objective Truths Discovered Through Experimentation
 
