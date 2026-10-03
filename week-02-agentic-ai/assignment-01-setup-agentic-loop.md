@@ -29,7 +29,8 @@ Add your screenshot here.
 
 Add your screenshot here.
 
----
+---Claude-code-auth
+
 
 # Task 2 — Fork and Clone the Starter Repository
 
